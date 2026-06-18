@@ -1,6 +1,8 @@
 # 🚀 Cosmic Voyages - Interstellar Travel Agency
 
 ![Cosmic Voyages Banner](./public/banner.png)
+## Live Project
+https://cosmicvoyages.netlify.app/
 
 ## 🌌 Overview
 
